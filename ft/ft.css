@@ -33,11 +33,11 @@ body{
 
 }
 h2,.jump,.containert,#r{
-    color:rgb(229, 255, 0);
+    color:rgb(255, 0, 128);
 }
 
 .jump:hover {
-    color: #ff1070; 
+    color: #ffff00; 
     transition: 0.3s;
 }
 
