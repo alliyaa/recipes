@@ -1,0 +1,26 @@
+
+body{
+    background-color: rgb(7, 11, 69);
+    color: azure;
+ 
+}
+
+.header{
+    margin-left:700px;
+}
+
+
+.image-container{
+    padding:77px;
+    margin-top:30px;
+  
+}
+
+.image-container:hover img {
+    transform: scale(0.92); 
+    
+}
+
+.container{
+    display:flex;
+}
