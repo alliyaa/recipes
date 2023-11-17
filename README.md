@@ -1,1 +1,3 @@
 # recipes
+
+The first project for odin project. I added in 3 websites that are linked to one main webpage. The webpage is the landing page and it's very basic for now but as soon as I learn more css styles I'll add in more features to the landing page when I finish the css part of the course. For each recipe there's a webpage and in each one I divided it into 3 sections using div, a story part that talks about how and why this food is important to me, a ingredients part and the actual procedure to the recipe. I'm pretty happy with the jump to recipe part since I've seen that on actual websites. 
